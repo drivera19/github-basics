@@ -1,2 +1,3 @@
-# github-basics
-I learning how to use github
+# Transpacific Repository
+
+For my project, it is fundamental to create repositories
